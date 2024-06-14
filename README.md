@@ -10,3 +10,9 @@ WGISD: The ground truth WGISD generated with the method used in 'Decoupled Two-S
 
 ## Weights
 `Model weight files`: [BaiduYun](https://pan.baidu.com/s/1utiUftSmUOdOKahBXkkBhQ)(code:aogg)  
+
+best_ap.pth.tar: The model weight with the best grape-cluster detection performance. 
+
+best_mae.pth.tar: The model weight with the best grape-berry counting performance. 
+
+best_mrd.pth.tar: The model weight with the best berry-per-grape-cluster counting performance. 
