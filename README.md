@@ -1,5 +1,5 @@
 # Probability Map–based Grape Detection and Counting
-This repository is the official implementation of our paper: [Probability Map–based Grape Detection and Counting](https://temp), which has already been accepted by `computers and electronics in agriculture`.
+This repository is the official implementation of our paper: [Probability Map–based Grape Detection and Counting](https://temp), which has already been accepted by `Computers and Electronics in Agriculture`.
 
 ## Datasets
 `Datasets used in training and testing of our methods`: [BaiduYun](https://pan.baidu.com/s/1ytr9z5FXEchZ7bpdPCA_Wg)(code:36ci) 
